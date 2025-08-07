@@ -1,0 +1,25 @@
+# 🎓 Student Result Management System (with SQL)
+
+This is a beginner-friendly project built in Google Colab using **Python + SQLite3** to manage student records, subjects, and exam marks.
+
+## 📌 Features
+- Create and manage Students, Subjects, and Results tables
+- Insert and view student marks
+- Update marks and calculate average scores
+- SQL JOIN and GROUP BY operations
+
+## 🛠️ Tech Used
+- Python (in Google Colab)
+- SQLite3 (embedded SQL database)
+
+## 📂 File
+- `Student_Result_Management_System_SQL.ipynb`
+
+## ✅ How to Run
+- Open the notebook in Google Colab
+- Run each cell step by step
+- Modify data or queries as needed
+
+---
+
+🚀 Made with 💻 by *Your Name*
